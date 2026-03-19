@@ -1,0 +1,11 @@
+{
+  "name": "windows-screenshot-paste",
+  "description": "Enables Ctrl+V screenshot pasting in Claude Code terminal on Windows via AutoHotkey v2.",
+  "version": "1.0.0",
+  "author": {
+    "name": "sharooncs"
+  },
+  "repository": "https://github.com/sharooncs/claude-windows-screenshot-paste",
+  "license": "MIT",
+  "keywords": ["windows", "screenshot", "clipboard", "autohotkey", "terminal"]
+}

@@ -1,4 +1,0 @@
-name: claude-windows-screenshot-paste
-description: Enables Ctrl+V screenshot pasting in Claude Code on Windows via AutoHotkey
-author: sharooncs
-version: 1.0.0
